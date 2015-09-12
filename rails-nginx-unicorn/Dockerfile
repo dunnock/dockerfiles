@@ -1,5 +1,4 @@
-FROM seapy/ruby:2.2.0
-MAINTAINER ChangHoon Jeong <iamseapy@gmail.com>
+FROM ruby:2.2-slim
 
 RUN apt-get update
 
