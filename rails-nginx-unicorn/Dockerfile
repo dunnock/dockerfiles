@@ -1,4 +1,4 @@
-FROM ruby:2.2-slim
+FROM ruby
 
 RUN apt-get update
 
